@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-sharing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-sharing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/highload-writing-console-tool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/highload-writing-console-tool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-based-social-network/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-based-social-network/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stored-procedure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stored-procedure/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
